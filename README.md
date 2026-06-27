@@ -96,11 +96,11 @@ Cyclistic-Bike-Share-Analysis/
 ---
 
 ## 📦 Deliverables Included
-* R Script (`cyclistic_analysis_script.R`)
-* R Markdown File (`Analysis_Rmarkdown_report.Rmd`)
-* Standalone HTML Report (`final_html_report.html`)
-* Final Presentation Report (`final_report_presentation.pptx`)
-* Interactive Data Visualization: **[ Dashboard](https://public.tableau.com/app/profile/achala.jain4410/viz/Cyclistic_bike_Analysis_2025_May2026/Dashboard_Cyclistic_BikeShare_2025-26)**
+* 📜 R Script: **[cyclistic_analysis_script.R](cyclistic_analysis_script.R)**
+* 📝 R Markdown File: **[Analysis_Rmarkdown_report.Rmd](Analysis_Rmarkdown_report.Rmd)**
+* 🌐 Standalone HTML Report:**[final_html_report.html](final_html_report.html)**
+* 📊 PowerPoint Presentation: **[final_report_presentation.pptx](final_report_presentation.pptx)**
+* 🖥️  Interactive Data Visualization: **[ Dashboard](https://public.tableau.com/app/profile/achala.jain4410/viz/Cyclistic_bike_Analysis_2025_May2026/Dashboard_Cyclistic_BikeShare_2025-26)**
 
 ---
 
